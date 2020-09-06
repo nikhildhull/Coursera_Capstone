@@ -1,1 +1,24 @@
 Contains data and model files for the capstone project.
+
+Project details -
+
+Aim -
+
+Each year millions of people die in traffic accidents, not to mention an additional number of people that are injured or disabled. If the locations of traffic accidents could be predicted, this could have a huge beneficial impact in potentially helping to reduce their number each year. It could also be useful in an insurance context, in order to predict risk, as well as for governments and local road authorities looking to create more efficient systems of road maintenance and improvements. The aim of this project is to predict where traffic accidents are likely to occur.
+
+Methodology -
+
+Our model uses a combination of accident, population density and traffic data from the UK, where we focused on accidents in London. Different machine learning models were built to see if the level of accident severity could be predicted.
+
+Results -
+
+Our findings showed that being able to predict accident severity was quite difficult due to the imbalance between slight, serious, and fatal accidents (58% accuracy). There were several promising options to improve the model further, beyond this initial proof of concept. Overall, we were able to demonstrate that this can easily be achieved and with the improvment of techonology and involvement of other techniques the prediction could be increased drastically.
+
+Notebook structure -
+
+The following notebooks show the steps we took in order to reach these findings -
+
+Cleaning the accident data
+Cleaning the traffic and population density data and merging this with the accident data.
+Exploring the geographical distribution of the data, and comparing the characteristics of accidents of different levels of severity
+Exploring the changes in accident numbers over time, and investigating various other features of the accident dataset where in our model predicted traffic accident severity with structured data.
