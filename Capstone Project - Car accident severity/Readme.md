@@ -18,7 +18,7 @@ Notebook structure -
 
 The following notebooks show the steps we took in order to reach these findings -
 
-Cleaning the accident data
-Cleaning the traffic and population density data and merging this with the accident data.
-Exploring the geographical distribution of the data, and comparing the characteristics of accidents of different levels of severity
-Exploring the changes in accident numbers over time, and investigating various other features of the accident dataset where in our model predicted traffic accident severity with structured data.
+01. Cleaning the accident data
+02. Cleaning the traffic and population density data and merging this with the accident data.
+03. Exploring the geographical distribution of the data, and comparing the characteristics of accidents of different levels of severity
+04. Exploring the changes in accident numbers over time, and investigating various other features of the accident dataset where in our model predicted traffic accident severity with structured data.
